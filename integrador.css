@@ -1,0 +1,24 @@
+header{
+    background-image: url(https://i.pinimg.com/564x/15/80/85/15808517d883bcf3db6dfa81ada9df0e.jpg);
+}
+h1{
+    background-color: rgb(66, 106, 107);
+    color: black;
+}
+p{
+    background-color: bisque;
+}
+H2{
+    background-color: darkseagreen;
+}
+table{
+    background-color: rgb(30, 105, 155);
+}
+img{
+width: 1500px;
+height: 3000;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2014/04/05/12/24/grass-316971_1280.jpg);
+    
+}
